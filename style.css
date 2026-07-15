@@ -26,7 +26,10 @@ body{
   font-family:var(--sans);
   overflow-x:hidden;
 }
-a{color:inherit}
+a{
+    color:inherit;
+    text-decoration:none;
+}
 
 .grain{
   position:fixed;
