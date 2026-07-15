@@ -78,7 +78,7 @@ h3{font-family:var(--serif);font-size:1.75rem;margin:8px 0;color:var(--terracott
 }
 
 .venue-image{
-    background-image:url('assets/borgo.jpg');
+    background-image:url('assets/borgo.jpeg');
 }
 
 .panel::before{
