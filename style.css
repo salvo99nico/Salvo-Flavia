@@ -174,10 +174,11 @@ h2{
   color:var(--terracotta-dark);
 }
 h3{
-  font-family:var(--serif);
-  font-size:1.75rem;
-  margin:8px 0;
-  color:var(--terracotta-dark);
+    font-family:var(--serif);
+    font-size:1.75rem;
+    margin:8px 0;
+    color:var(--terracotta-dark);
+    text-decoration:none;
 }
 p{line-height:1.65}
 
